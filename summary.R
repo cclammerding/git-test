@@ -5,6 +5,7 @@ x <- 10
 x
 
 myfunction <- function(x) {
+	abs(x)
 }
 
 
